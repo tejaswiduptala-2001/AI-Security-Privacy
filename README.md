@@ -130,8 +130,8 @@ This metric measures the ability of the attack to correctly detect training samp
 
 | File | Description |
 |-----|-------------|
-| `AISP_CODE.ipynb` | Main notebook implementing the membership inference attack |
-| `AISP_Tejaswi_Duptala.pdf` | Full project report describing methodology and results |
+| `MAIN_CODE.ipynb` | Main notebook implementing the membership inference attack |
+| `Report.pdf` | Full project report describing methodology and results |
 | `mia_predictions_tabddpm_21.csv` | Predictions for evaluation dataset |
 | `mia_predictions_tabddpm_22.csv` | Predictions for evaluation dataset |
 | `mia_predictions_tabddpm_23.csv` | Predictions for evaluation dataset |
@@ -168,7 +168,7 @@ pip install numpy pandas scikit-learn scipy matplotlib seaborn
 Open the notebook:
 
 ```
-AISP_CODE.ipynb
+MAIN_CODE.ipynb
 ```
 
 Run all cells sequentially.
